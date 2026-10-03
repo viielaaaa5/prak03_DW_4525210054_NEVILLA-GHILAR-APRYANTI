@@ -1,7 +1,7 @@
 # Tugas Praktikum Pertemuan 3 - Desain Web
 
 **Nama:** Nevilla Ghilar Apryanti
-**NPM:** [4525210054]
+**NPM:** 4525210054
 
 ## Isi Tugas
 
@@ -79,11 +79,9 @@ File `style2.css` digunakan untuk mengatur tampilan halaman seperti warna backgr
 ## Screenshot
 
 Berikut adalah hasil tampilan CV pada perangkat desktop:
-
-[Hasil Tampilan Desktop]
-(<img width="947" height="443" alt="desktop1" src="https://github.com/user-attachments/assets/1dc93d65-156f-4f73-b263-e7f7d2921168" />)
-(<img width="947" height="435" alt="desktop2" src="https://github.com/user-attachments/assets/9d1f987c-ff74-4a3a-a351-cdef84ecd415" />)
-(<img width="949" height="351" alt="desktop3" src="https://github.com/user-attachments/assets/94f5aa76-0f6b-4e39-bc0c-f22bd4666ce6" />)
+<img width="947" height="443" alt="desktop1" src="https://github.com/user-attachments/assets/1dc93d65-156f-4f73-b263-e7f7d2921168" />
+<img width="947" height="435" alt="desktop2" src="https://github.com/user-attachments/assets/9d1f987c-ff74-4a3a-a351-cdef84ecd415" />
+<img width="949" height="351" alt="desktop3" src="https://github.com/user-attachments/assets/94f5aa76-0f6b-4e39-bc0c-f22bd4666ce6" />
 ## Ringkasan dan Kesimpulan
 
 Pada tugas ini saya membuat sebuah halaman Curriculum Vitae menggunakan HTML dan CSS. Halaman CV berisi beberapa informasi seperti profil, data diri, pendidikan, keahlian, minat, dan kontak. HTML digunakan untuk membuat struktur dan isi dari halaman, sedangkan CSS digunakan untuk mengatur tampilan agar lebih terstruktur dan mudah dibaca. Pada tugas ini juga diterapkan beberapa property CSS secara inline pada bagian header, foto profil, nama, dan informasi profil. Selain itu, digunakan empat format warna yaitu HEX, RGB, RGBA, dan HSL. File CSS eksternal digunakan untuk mengatur tampilan utama seperti background, ukuran tulisan, jarak antar bagian, bentuk foto, link, serta footer. Saya juga membuat mini style guide yang berisi pilihan font, warna utama, warna aksen, ukuran heading, dan line height. Dari tugas ini saya menjadi lebih memahami cara menggabungkan HTML dan CSS serta mengetahui perbedaan penggunaan CSS inline dan CSS eksternal dalam membuat sebuah halaman web sederhana.
