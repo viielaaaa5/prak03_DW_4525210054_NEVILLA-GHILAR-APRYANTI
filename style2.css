@@ -1,0 +1,95 @@
+
+/* =========================
+   PENGATURAN DASAR
+========================= */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #ECEFF1;
+    color: #333333;
+    margin: 0;
+}
+
+
+/* =========================
+   HEADER
+========================= */
+
+header {
+    background: linear-gradient(to right, #6c3d86, #8d385a);
+    color: white;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+.foto-profil {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+/* =========================
+   KONTEN
+========================= */
+
+main {
+    width: 80%;
+    margin: 25px auto;
+    background-color: white;
+    padding: 25px;
+}
+
+section {
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #546E7A;
+    font-size: 22px;
+    border-bottom: 2px solid #90A4AE;
+    padding-bottom: 5px;
+}
+
+p {
+    color: #37474F;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+
+/* =========================
+   LINK
+========================= */
+
+a {
+    color: #607D8B;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    background: linear-gradient(to right, #6c3d86, #8d385a);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    color: white;
+    font-size: 14px;
+}
+
